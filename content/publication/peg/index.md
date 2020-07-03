@@ -3,7 +3,7 @@ title = "Progressive malnutrition despite percutaneous endoscopic gastrostomy"
 date = 2020-03-13T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Francisco Bravo", "Ioannis Kapogloud", "Marion Bionda", "Andrew J. Macpherson", "*Niklas Krupka*"]
+authors = ["Francisco Bravo", "Ioannis Kapogloud", "Marion Bionda", "Andrew J. Macpherson", "Niklas Krupka"]
 
 # Publication type.
 # Legend:
