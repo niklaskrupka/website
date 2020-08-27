@@ -82,3 +82,5 @@ math = false
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <div class="altmetric-embed" data-badge-type="medium-donut" data-altmetric-id="56195997" />
+
+<a href="https://www.unibe.ch/aktuell/medien/media_relations/medienmitteilungen/2019/medienmitteilungen_2019/neuer_schutzmechanismus_des_darms_entdeckt/index_ger.html">University of Bern press release</a>
