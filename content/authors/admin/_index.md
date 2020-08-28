@@ -78,4 +78,4 @@ email: ""
 # - Visitors
 # ---
 ---
-I am a postdoctoral fellow and trainee in gastroenterology at the University Clinic for Visceral Surgery and Medicine, Inselspital Bern and the Department for BioMedical Research (DBMR).  My clinical interests are inflammatory bowel disease, celiac disease and colorectal cancer and infectious diseases. My research focuses on endoplasmic reticulum stress and intestinal mucosal immunology, particularly B cell biology.
+I am a trainee in Gastroenterology and postdoctoral fellow at the University Clinic for Visceral Surgery and Medicine, Inselspital Bern and the Department for BioMedical Research (DBMR).  My clinical interests are inflammatory bowel disease, celiac disease, colorectal cancer and infectious diseases. My research focuses on endoplasmic reticulum (ER) stress and small-intestinal mucosal immunology.
