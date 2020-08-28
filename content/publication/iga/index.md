@@ -64,7 +64,8 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 links = [{name = "B1b RNA-seq dataset", url = "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE124561"},
-         {name = "Peritoneal scRNA-seq dataset", url = "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE124562"}]
+         {name = "Peritoneal scRNA-seq dataset", url = "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE124562"},
+         {name = "Press release", url = "https://www.unibe.ch/aktuell/medien/media_relations/medienmitteilungen/2019/medienmitteilungen_2019/neuer_schutzmechanismus_des_darms_entdeckt/index_ger.html"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
