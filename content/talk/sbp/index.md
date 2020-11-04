@@ -3,15 +3,15 @@
 
 title: "Spontaneous bacterial peritonitis"
 event: "Portal hypertension session"
-event_url:
-location:
+event_url: "https://www.swissliver.ch/de/Forschung/Journal-Club"
+location: "Zoom"
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary:
+summary: A literature search and update on SBP
 abstract:
 
 # Talk start and end times.
@@ -46,10 +46,9 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
-
+url_slides: "sbp_slides.pdf"
 url_code:
-url_pdf:
+url_pdf: 
 url_video:
 
 # Markdown Slides (optional).
