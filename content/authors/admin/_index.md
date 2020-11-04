@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral researcher and gastroenterology fellow
+role: Gastroenterologist and Postdoctoral researcher
 
 # Organizations/Affiliations
 organizations:
@@ -35,6 +35,9 @@ education:
   - course: Doctor of Medicine
     institution: University of Heidelberg
     year: 2011
+  - course: European Specialty Examination in Gastroenterology & Hepatology
+    institution: ESBGH
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -78,4 +81,4 @@ email: ""
 # - Visitors
 # ---
 ---
-I am a trainee in Gastroenterology and postdoctoral fellow at the University Clinic for Visceral Surgery and Medicine, Inselspital Bern and the Department for BioMedical Research (DBMR).  My clinical interests are inflammatory bowel disease, celiac disease, colorectal cancer and infectious diseases. My research focuses on endoplasmic reticulum (ER) stress and small-intestinal mucosal immunology.
+I am a Gastroenterologist and postdoctoral fellow at the University Clinic for Visceral Surgery and Medicine, Inselspital Bern and the Department for BioMedical Research (DBMR).  My clinical interests are inflammatory bowel disease, celiac disease, colorectal cancer and infectious diseases. My research focuses on endoplasmic reticulum (ER) stress and small-intestinal mucosal immunology.
