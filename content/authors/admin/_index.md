@@ -32,12 +32,15 @@ interests:
 
 education:
   courses:
-  - course: Doctor of Medicine
-    institution: University of Heidelberg
-    year: 2011
+  - course: Board Certification in Gastroenterology and Hepatology
+    institution: SGG
+    year: 2021
   - course: European Specialty Examination in Gastroenterology & Hepatology
     institution: ESBGH
     year: 2020
+  - course: Doctor of Medicine
+    institution: University of Heidelberg
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
