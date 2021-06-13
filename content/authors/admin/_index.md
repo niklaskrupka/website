@@ -32,11 +32,11 @@ interests:
 
 education:
   courses:
-  - course: Board Certification in Gastroenterology and Hepatology
-    institution: SGG
+  - course: Board Certification in Gastroenterology
+    institution: Swiss Society of Gastroenterology
     year: 2021
   - course: European Specialty Examination in Gastroenterology & Hepatology
-    institution: ESBGH
+    institution: The European Board of Gastroenterology and Hepatology
     year: 2020
   - course: Doctor of Medicine
     institution: University of Heidelberg
