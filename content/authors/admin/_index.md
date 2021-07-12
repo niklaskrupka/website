@@ -32,6 +32,9 @@ interests:
 
 education:
   courses:
+  - course: Fellow
+    institution: The European Board of Gastroenterology and Hepatology 
+    year: 2021
   - course: Board Certification in Gastroenterology
     institution: Swiss Society of Gastroenterology
     year: 2021
