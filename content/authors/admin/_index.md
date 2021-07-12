@@ -32,7 +32,7 @@ interests:
 
 education:
   courses:
-  - course: Fellow
+  - course: FEBGH Fellowship
     institution: The European Board of Gastroenterology and Hepatology 
     year: 2021
   - course: Board Certification in Gastroenterology
